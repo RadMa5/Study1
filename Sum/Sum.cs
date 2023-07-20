@@ -1,2 +1,2 @@
-﻿Console.Write("35 + 40 = ");
-Console.Write(35 + 40);
+﻿Console.Write("45 / 5 = ");
+Console.Write(45 / 5);
